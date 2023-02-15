@@ -1,0 +1,32 @@
+body{
+    font-size: 20px;
+   background-color:rgb(228, 247, 255)
+}
+.main{    
+    display: flex;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    
+}
+h3{
+    color:rgb(5, 117, 121)
+}
+input{
+    padding: 10px;
+    outline: none;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    box-shadow: 5px 7px rgb(19, 114, 172);
+}
+#current-time{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    color: rgb(25, 125, 25);
+    font-weight: 700;
+    font-size: 20px;   
+   
+}
